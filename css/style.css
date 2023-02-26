@@ -21,7 +21,7 @@ body {
     width: 100%;
     align-items: center;
     background-color: rgba(7, 7, 7, 0.962);
-    font-size: 25px;
+    font-size: 25%;
     font-family: 'Times New Roman', Times, serif, bold;
     color: azure;
     display: flex;
@@ -31,16 +31,16 @@ body {
 
 .title {
     margin-left: 1%;
-    font-size: 25px;
+    font-size: 25%;
 }
 
 .pdrtext {
-    font-size: 30px;
+    font-size: 30%;
 }
 
 .login {
     margin-right: 1%;
-    font-size: 25px;
+    font-size: 25%;
 }
 
 .imgauto {
